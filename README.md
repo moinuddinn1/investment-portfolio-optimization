@@ -19,10 +19,9 @@ The app includes two modules:
 ---
 
 ## 🖼️ Screenshots
-
-| CAPM Return | Calculate Beta | Results Page |
-|--------------|----------------|---------------|
-| ![CAPM Return](images/1.png) | ![Calculate Beta](images/2.png) | ![Results](images/3.png) |
+![CAPM Return](images/1.png)
+![Calculate Beta](images/2.png) 
+![Results](images/3.png)
 
 *(Store all screenshots in the `/images` folder and name them as shown above.)*
 
